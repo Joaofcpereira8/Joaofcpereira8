@@ -1,3 +1,5 @@
+# Hi, I'm João Pereira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 # 💫 About Me:
 🔭 I’m currently studying @ 42 Porto<br>🌱 I’m currently learning C
 
