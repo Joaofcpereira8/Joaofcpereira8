@@ -83,7 +83,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pereira-9601a1176/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xJoao+Pereira-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Joo Pereira-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
