@@ -17,8 +17,9 @@
 
 <br>
 
-- At the moment, I'm studying @ 42 Porto!
-- Currently learning C language
+- I'm 25 years old.
+- At the moment, I'm studying @ [42 Porto](https://www.42porto.com/)!
+- Currently learning C language.
 
 <br><br>
 
@@ -53,6 +54,7 @@
 
 <br>
 
+[![jofilipe's 42 stats](https://badge42.vercel.app/api/v2/clbc8x3qy00490fkzse3kubpm/stats?cursusId=21&coalitionId=292)](https://github.com/JaeSeoKim/badge42)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
