@@ -7,7 +7,7 @@
 
 <br>
 
-- I'm 25 years old.
+- I'm 26 years old.
 - At the moment, I'm studying @ [42 Porto](https://www.42porto.com/)!
 - Currently learning C language.
 
