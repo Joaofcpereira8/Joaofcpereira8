@@ -8,8 +8,8 @@
 <br>
 
 - I'm 26 years old.
-- At the moment, I'm studying @ [42 Porto](https://www.42porto.com/)!
-- Currently learning C language.
+- At the moment, I'm studying @ [42 Porto](https://www.42porto.com/) and working @ [Critical Software](https://criticalsoftware.com/en)!
+- Currently learning C++ language.
 
 <br><br>
 
